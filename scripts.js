@@ -13,6 +13,8 @@ function getname(){
                     var getname = names[date];
         }
         alert("Hi, Your Akan Name is " + getname + ". the day you were born is " + days);
-
+    }
+    else{
+        alert("Enter a date and select gender");
     }
 }
