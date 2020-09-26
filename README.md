@@ -9,3 +9,16 @@
 * Google Chrome
 * internet
 * git clone https://github.com/UMUTONIRitha/Akan-project.git
+## Technologies Used
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+## BDD
+* Enter a birthday and select the gender
+* Click on your name is
+* Take the birthday and get the day
+* Asiign the day to the list of days
+* Check if entered birthday and gender isnot null
+* Nested if the condition is true assign days to the female's name else assign the day to male's name
+* if the birthday AND gender is null then ask user to enter birthday and select gender"
