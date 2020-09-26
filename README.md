@@ -25,4 +25,4 @@
 ## Contact Information
 {feel free to contact me via E-mail: rithamarie9@gmail.com in case you have any question or contribution.}
 ### License
-* MIT, Copyright (c) {2020} **{UMUTONI Marie Ritha}**
+* MIT license,Copyright (c) {2020} **{UMUTONI Marie Ritha}**

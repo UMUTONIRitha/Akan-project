@@ -7,6 +7,10 @@ body{
 h1{
     color: blue;
     text-align: center;
+    font-weight: 800;
+    font-family: fantasy;
+    opacity: 0.5;
+
 }
 .first{
     border-style: solid ;
