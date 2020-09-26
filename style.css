@@ -1,4 +1,18 @@
+body{
+    background-image: url(art.jpeg);
+    background-repeat: repeat;
+    background-size: cover;
+}
+
 h1{
     color: blue;
     text-align: center;
+}
+.first{
+    border-style: solid ;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
 }
