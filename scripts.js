@@ -12,5 +12,7 @@ function getname(){
             var names = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
                     var getname = names[date];
         }
+        alert("Hi, Your Akan Name is " + getname + ". the day you were born is " + days);
+
     }
 }
