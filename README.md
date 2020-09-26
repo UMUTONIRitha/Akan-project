@@ -21,4 +21,8 @@
 * Asiign the day to the list of days
 * Check if entered birthday and gender isnot null
 * Nested if the condition is true assign days to the female's name else assign the day to male's name
-* if the birthday AND gender is null then ask user to enter birthday and select gender"
+* if the birthday AND gender is null then ask user to enter birthday and select gender
+## Contact Information
+{feel free to contact me via E-mail: rithamarie9@gmail.com in case you have any question or contribution.}
+### License
+* MIT, Copyright (c) {2020} **{UMUTONI Marie Ritha}**
