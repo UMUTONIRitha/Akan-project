@@ -18,5 +18,10 @@ h1{
 }
 .second{
     text-align: center;
-    color: white;
+    color:brown;
+}
+.form-group{
+    font-weight: 600;
+    font-family: serif;
+    font-size: medium;
 }
