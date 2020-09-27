@@ -8,7 +8,7 @@
 * Open Terminal
 * Google Chrome
 * internet
-* git clone https://github.com/UMUTONIRitha/Akan-project.git
+[git clone] (https://github.com/UMUTONIRitha/Akan-project.git)
 ## Technologies Used
 * HTML
 * CSS
@@ -22,7 +22,9 @@
 * Check if entered birthday and gender isnot null
 * Nested if the condition is true assign days to the female's name else assign the day to male's name
 * if the birthday AND gender is null then ask user to enter birthday and select gender
+## How Akan Project look
+![Akan NameProject](akan.png)
 ## Contact Information
-{feel free to contact me via E-mail: rithamarie9@gmail.com in case you have any question or contribution.}
+{feel free to contact me via E-mail: rithamarie9@gmail.com in case you need any support or contribution.}
 ### License
 * MIT license,Copyright (c) {2020} **{UMUTONI Marie Ritha}**
