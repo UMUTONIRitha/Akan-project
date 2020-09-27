@@ -13,7 +13,10 @@ h1{
 
 }
 .first{
-    border-style: solid ;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 20px;
+    border-color:silver;
     margin-left: 150px;
     margin-right: 150px;
     margin-top: 20px;
@@ -27,5 +30,5 @@ h1{
 .form-group{
     font-weight: 600;
     font-family: serif;
-    font-size: medium;
+    font-size: 20px;
 }
