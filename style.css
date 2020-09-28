@@ -16,13 +16,14 @@ h1{
     border-style: solid;
     border-radius: 25px;
     border-width: 10px;
-    border-color:green;
+    border-color: silver;
     margin-left: 150px;
     margin-right: 150px;
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 10px;
-    color:lavender;
+    color:red;
+    font-family: cursive;
 }
 .second{
     text-align: center;
