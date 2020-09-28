@@ -1,6 +1,6 @@
 body{
-    background-image: url(art.jpeg);
-    background-repeat: repeat;
+    background-image: url(hotel.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
@@ -15,20 +15,27 @@ h1{
 .first{
     border-style: solid;
     border-radius: 25px;
-    border-width: 20px;
-    border-color:silver;
+    border-width: 10px;
+    border-color:green;
     margin-left: 150px;
     margin-right: 150px;
     margin-top: 20px;
     margin-bottom: 20px;
-    padding: 20px;
+    padding: 10px;
+    color:lavender;
 }
 .second{
     text-align: center;
-    color:brown;
+    color: ivory;
 }
 .form-group{
     font-weight: 600;
     font-family: serif;
     font-size: 20px;
+}
+.table{
+    color: yellow;
+}
+h5{
+    color: cyan;
 }
