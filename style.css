@@ -36,7 +36,9 @@ h1{
 }
 .table{
     color: yellow;
+    font-style: italic;
 }
 h5{
-    color: cyan;
+    color:green;
+    font-weight: 800;
 }
